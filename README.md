@@ -102,14 +102,6 @@ I am flexible in adopting modern technologies, including AI tools, to accelerate
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Career Objective
 
 To contribute to international development institutions, research organizations, NGOs, or public policy units by providing:
